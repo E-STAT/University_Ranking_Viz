@@ -9,7 +9,7 @@ The Story of this analysis is guided by the following objectives:
 
 * Analyze the dominance distribution of universities across countries for the top 100 universities in the world.
 * Identify universities that have been rising tremendously over the years and also analyze the reduction of dominance of some universities, especially in the US and UK.
-* Examine the top 5 universities that have been rising tremendously over the years and understand their strategy for improving.
+* Examine the top 4 universities that have been rising tremendously over the years and understand their strategy for improving.
 * Identify Top 6 countries and top 10 universities that admit international students
 
 ## Global Dominance
