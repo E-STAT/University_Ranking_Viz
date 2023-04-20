@@ -1,7 +1,5 @@
 # University Ranking Visualization
 
-## Global Dominance
-![image](https://user-images.githubusercontent.com/95111839/233275742-8acfaf09-dbc1-43ba-8260-85370d23f052.png)
 
 
 ## Data Story To Be Told
@@ -12,6 +10,9 @@ The Story of this analysis is guided by the following objectives:
 * Identify universities that have been rising tremendously over the years and also analyze the reduction of dominance of some universities, especially in the US and UK.
 * Examine the top 5 universities that have been rising tremendously over the years and understand their strategy for improving.
 * Identify Top 6 countries and top 10 universities that admit international students
+
+## Global Dominance
+![image](https://user-images.githubusercontent.com/95111839/233275742-8acfaf09-dbc1-43ba-8260-85370d23f052.png)
 
 ## Thought Process
 
