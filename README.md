@@ -1,5 +1,6 @@
 # University Ranking Visualization
 
+![image](https://user-images.githubusercontent.com/95111839/233276139-627f07d6-30dc-4486-8707-8f2103f9beb7.png)
 
 
 ## Data Story To Be Told
