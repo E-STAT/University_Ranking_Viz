@@ -67,3 +67,10 @@ For the purpose of this analysis, the following tools/libraries are used:
     
 
 ## Screen Recording
+
+The presentation of insights can be found [here](https://youtu.be/9GYtNGWaRU8)
+
+## Team Pie
+
+ * Ogechukwu Sylvia Okwu
+ * Ernest Owojori
